@@ -1,0 +1,16 @@
+{
+    "name": "jliu/helper",
+    "description": "The PHP Helper Package",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "liujing",
+            "email": "liujin0506@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jliu\\helper\\": "src"
+        }
+    }
+}
