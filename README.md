@@ -4,6 +4,21 @@
 
 > 以下类库都在`\\jliu\\helper`命名空间下
 
+## 公共函数
+
+```php
+// 是否为手机号
+isMobile('18888888888');
+
+ 
+// 随机数
+random($length, $numeric = false)
+
+ 
+// 字符串截取，支持中文和其他编码
+msubstr($str, $start, $length, $charset = "utf-8", $suffix = true)
+```
+
 ## Random
 > 随机数操作
 
