@@ -11,6 +11,9 @@
     "autoload": {
         "psr-4": {
             "jliu\\helper\\": "src"
-        }
+        },
+        "files": [
+            "src/helper.php"
+        ]
     }
 }
